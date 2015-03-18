@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="94232262-930c-4eb7-a1b3-5f3ca56a77a9" solutionId="94232262-930c-4eb7-a1b3-5f3ca56a77a9" resetWebServer="false" sharePointProductVersion="16.0" name="SPKnockout" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d716e4fc-8ba0-43af-add0-8654fab03f2f" />
+  </features>
+</package>

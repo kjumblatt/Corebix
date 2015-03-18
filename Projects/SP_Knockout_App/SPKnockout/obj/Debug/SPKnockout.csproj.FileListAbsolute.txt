@@ -1,0 +1,3 @@
+c:\users\karl\documents\visual studio 2013\Projects\SPKnockout\SPKnockout\bin\Debug\SPKnockout.pdb
+c:\users\karl\documents\visual studio 2013\Projects\SPKnockout\SPKnockout\obj\Debug\SPKnockout.dll
+c:\users\karl\documents\visual studio 2013\Projects\SPKnockout\SPKnockout\obj\Debug\SPKnockout.pdb

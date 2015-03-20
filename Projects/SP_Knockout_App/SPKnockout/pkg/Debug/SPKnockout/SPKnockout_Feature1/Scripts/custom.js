@@ -141,7 +141,7 @@ function ContactsViewModel() {
             },
             success: function () {
                 getSpList();
-                alert("Updated Contact Successfully!");
+                //alert("Updated Contact Successfully!");
                 self.showUpdateForm(false);
             },
             error: function (err) {

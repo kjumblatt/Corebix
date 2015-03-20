@@ -6,6 +6,7 @@
 <%@ Register TagPrefix="WebPartPages" Namespace="Microsoft.SharePoint.WebPartPages" Assembly="Microsoft.SharePoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 <%@ Register TagPrefix="SharePoint" Namespace="Microsoft.SharePoint.WebControls" Assembly="Microsoft.SharePoint, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 
+
 <%-- The markup and script in the following Content element will be placed in the <head> of the page --%>
 <asp:Content ContentPlaceHolderID="PlaceHolderAdditionalPageHead" runat="server">
     <script type="text/javascript" src="../Scripts/jquery-1.9.1.min.js"></script>
